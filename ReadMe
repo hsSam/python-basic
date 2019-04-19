@@ -1,0 +1,10 @@
+pip request
+
+pip install requests
+pip install lxml
+pip install bs4
+pip install selenium
+
+
+# selenium need geckodriver
+# install from arch : > pacman -S geckodriver
